@@ -59,7 +59,7 @@ def main():
 
     pp = CheatcodesPrinter(
         spdx_identifier="MIT OR Apache-2.0",
-        solidity_requirement=">=0.6.2 <0.9.0",
+        solidity_requirement=">=0.4.22 <0.9.0",
         abicoder_pragma=True,
     )
     pp.p_prelude()
