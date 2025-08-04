@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.6.2;
+pragma solidity >=0.4.22;
 
 interface IERC165 {
     /// @notice Query if a contract implements an interface

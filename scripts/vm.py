@@ -503,7 +503,7 @@ class CheatcodesPrinter:
         elif contract and len(contract.errors) > 0:
             req = ">=0.8.4 <0.9.0"
         else:
-            req = ">=0.6.0 <0.9.0"
+            req = ">=0.4.22 <0.9.0"
         self._p_str(f"pragma solidity {req};")
         self._p_nl()
 

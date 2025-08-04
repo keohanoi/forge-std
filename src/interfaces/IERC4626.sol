@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.6.2;
+pragma solidity >=0.4.22;
 
 import {IERC20} from "./IERC20.sol";
 
